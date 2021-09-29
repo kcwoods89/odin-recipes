@@ -3,4 +3,15 @@ body {
     color:ghostwhite;
     font-size:25px;
     font-family: Arial, Helvetica, sans-serif;
+    margin-left: 50px;
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+div {
+    background-color: grey;
+    color: black;
 }
